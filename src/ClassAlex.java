@@ -1,4 +1,4 @@
 public class ClassAlex {
-private int z;
+private int q;
 
 }

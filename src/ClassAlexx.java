@@ -1,4 +1,4 @@
 public class ClassAlexx {
 
-private int y;
+private int z;
 }

@@ -1,4 +1,4 @@
-public class ClassAlex {
+public class ClassAlexY {
 private int q;
 private int r;
 
